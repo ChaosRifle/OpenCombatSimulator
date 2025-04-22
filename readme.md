@@ -7,15 +7,16 @@ project scope:
 
 
 scope of gameplay:
-- pvpve, multplatform, multicrew
-- sead/dead like real IADS (similar to skynet)
+- multiplayer pvpve, multiplatform, PtP multicrew avoiding RTT of server
+- realistic SAMs like real IADS for functional SEAD/DEAD (similar to skynet, able to hide, network, coordinate with interceptors and awacs)
 - realistic bvr
-- 
+- realistic emulation (not simulation) of radar systems (prebaked RCS, not realtime ray casts)
+- realistic weapons
 
 
 scope of modules:
 - full fidelity clickable, bindable, vr interactable cockpits
-- varied levels of fidelity, (arcade, light sim, sim, pro sim)?
+- varied levels of fidelity for things like FM, ?
 
 
 scope of engine:
