@@ -2,10 +2,10 @@ proposal for open source community combat(flight, possibly other) simulator
 
 Project Scope:
 - Some way for 3rd party developers to profit off of making high quality modules vetted by the project team.
-- Community developed, free and open source modules.   
+- Community developed, free and open source engine and modules.   
 
 
-Scope of gameplay:
+Scope Of Gameplay:
 - Multiplayer PvPvE, multi-platform, peer to peer multicrew avoiding RTT of server like other sims
 - Realistic SAMs like real IADS for functional SEAD/DEAD (similar to skynet, able to hide, network, coordinate with interceptors and AWACS)
 - Realistic BVR
